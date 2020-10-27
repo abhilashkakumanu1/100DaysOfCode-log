@@ -14,3 +14,8 @@ __link to work__: [part0](https://github.com/abhilashkakumanu1/fullstackopen/tre
 ### Day 2: October 26 Monday - 3:00 Hrs
 
 Worked on part1 exercises. Finished the course info exercise(1.1 - 1.5). Really liked the way in which exercises are building on top of each other. It's like we start with working code and are made to refactor it as we proceed further. Nice!
+
+### Day 3: October 27 Tuesday - 4:00 Hrs
+
+Finished part1 exercises (1.6 - 1.14). After that, started reading part2. Till now I haven't made any notes. Should focus on completing the part2 theory and notes for everything.
+
