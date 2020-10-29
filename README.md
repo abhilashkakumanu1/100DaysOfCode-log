@@ -19,3 +19,7 @@ Worked on part1 exercises. Finished the course info exercise(1.1 - 1.5). Really 
 
 Finished part1 exercises (1.6 - 1.14). After that, started reading part2. Till now I haven't made any notes. Should focus on completing the part2 theory and notes for everything.
 
+### Day 4: October 28 Wednesday - 6:00 Hrs
+
+Finished part2 exercises (2.1 - 2.10). I am starting to love React because of this course. The way in which the concepts are slowly sinking in through exercises is superb! Looking forward for more...
+
